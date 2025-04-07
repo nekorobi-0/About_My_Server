@@ -15,4 +15,4 @@
 ### ネットワーク構成
 
 Drawioをみろ
-![ネットワーク構成図](./Untitled Diagram.drawio.svg)
+![ネットワーク構成図](Untitled Diagram.drawio.svg)
