@@ -38,11 +38,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i_SbP_oBZpBZ_PZjNfhK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="i_SbP_oBZpBZ_PZjNfhK-3" target="i_SbP_oBZpBZ_PZjNfhK-25">
+        <mxCell id="i_SbP_oBZpBZ_PZjNfhK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="i_SbP_oBZpBZ_PZjNfhK-3" target="i_SbP_oBZpBZ_PZjNfhK-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="260" />
-              <mxPoint x="670" y="260" />
+              <mxPoint x="260" y="380" />
+              <mxPoint x="760" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,7 +113,7 @@
           <mxGeometry x="530" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_SbP_oBZpBZ_PZjNfhK-25" value="その他無線機器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="610" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_SbP_oBZpBZ_PZjNfhK-32" value="Proxmox Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="698" width="110" height="30" as="geometry" />
@@ -150,6 +150,15 @@
         </mxCell>
         <mxCell id="i_SbP_oBZpBZ_PZjNfhK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i_SbP_oBZpBZ_PZjNfhK-48" target="i_SbP_oBZpBZ_PZjNfhK-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i_SbP_oBZpBZ_PZjNfhK-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.7;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i_SbP_oBZpBZ_PZjNfhK-54" target="i_SbP_oBZpBZ_PZjNfhK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i_SbP_oBZpBZ_PZjNfhK-55" value="Tailscale&lt;div&gt;VPN&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="127.5" width="60" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="i_SbP_oBZpBZ_PZjNfhK-54" value="Oracle Cloud Inflastracture&lt;br&gt;無料枠" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
