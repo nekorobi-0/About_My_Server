@@ -14,5 +14,7 @@
 
 ### ネットワーク構成
 
-Drawioをみろ
 <img src="Untitled Diagram.drawio.svg">
+
+### 物理
+<img src="IMG_20250330_170209.jpg">
