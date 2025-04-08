@@ -17,4 +17,6 @@
 <img src="Untitled Diagram.drawio.svg">
 
 ### 物理
+
+# お前もまな板教団に入らないか
 <img src="IMG_20250330_170209.jpg">
