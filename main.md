@@ -3,7 +3,7 @@
 ### ホスト一覧
 
 |ホスト名|CPU|Cores/Threads|メモリ|ディスク(SSD)|ディスク(HDD)|GPU|費用|
-|:---|:---|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|:---|:---|
 |proxmox00|i5-3450|4/4|10G|None|2TB/1TB|HD Graphics 2500|15k|
 |proxmox01|Ryzen5 3600X|6/12|48G|256G|500G/500G/1TB|GeForce GT 430|35k|
 |proxmox03|Ryzen9 3900X|12/24|64G|256G|1TB/1TB|GeForce GTX 1660 Ti|50k|
