@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="70r44RXv8u6vsrxer6xr">
-    <mxGraphModel>
+    <mxGraphModel dx="815" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6Sc22I3wRW_WiM66v8WQ-1" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="37.2" x="160" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sc22I3wRW_WiM66v8WQ-2" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="37.2" x="250" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sc22I3wRW_WiM66v8WQ-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="37.2" x="340" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sc22I3wRW_WiM66v8WQ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Proxmox00&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;192.168.0.241&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="148.6" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sc22I3wRW_WiM66v8WQ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Proxmox01&lt;br&gt;192.168.0.240&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="238.6" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sc22I3wRW_WiM66v8WQ-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Proxmox03&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;192.168.0.243/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="328.6" y="730" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
